@@ -1,4 +1,4 @@
-Este projeto contém uma coleção de endpoints para manipulação de álbuns e posts usando métodos RESTful. Inclui operações para buscar álbuns e usuários, criar novos posts, deletar álbuns e atualizar posts. Este projeto utiliza a API de teste gratuita fornecida por JSONPlaceholder, que simula uma API REST completa com dados fictícios.
+Este projeto contém uma coleção de endpoints para manipulação de álbuns e posts usando métodos RESTful. Inclui operações para buscar álbuns e usuários, criar novos posts, deletar álbuns e atualizar posts. Este projeto utiliza a API de teste gratuita fornecida por JSONPlaceholder (https://jsonplaceholder.typicode.com/), que simula uma API REST completa com dados fictícios.
 
 Endpoints Disponíveis:
 
